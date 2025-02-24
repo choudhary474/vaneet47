@@ -3,8 +3,13 @@ its my repository
 <html>
   <head>
     <title>computer</title>
-    <body>
-      
-    </body>
   </head>
+  <body>
+    <header>
+      <h1> first line</h1>
+      <h2>second line</h2>
+      <h3> third line </h3>
+      <h4>fourth line</h4>
+    </header>
+  </body>
 </html>
